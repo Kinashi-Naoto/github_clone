@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+example webpage: https://www.freecodecamp.org/news/build-a-clone-of-githubs-file-search-functionality/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
